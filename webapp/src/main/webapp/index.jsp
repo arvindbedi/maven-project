@@ -38,7 +38,7 @@
 		<h2>Pipeline Check</h2>
 		<p>This is an assignment task in the DevOps course by RAM Sir.</p>
 		<p>Initial build after setup of pipelines.</p>
-        <p>Trigger1AWS</p>
+        <p>Trigger2AWS</p>
 	</main>
 </body>
 </html>
